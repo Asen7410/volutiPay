@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jan 03 08:58:14 CST 2025
+http\://0.0.0.0/.error=Could not transfer artifact com.fasterxml.jackson\:jackson-parent\:pom\:2.10 from/to maven-default-http-blocker (http\://0.0.0.0/)\: Blocked mirror for repositories\: [aliyun-repos (http\://maven.aliyun.com/nexus/content/groups/public/, default, releases)]
+https\://repo.maven.apache.org/maven2/.lastUpdated=1735865894424
+@default-maven-default-http-blocker-http\://0.0.0.0/.lastUpdated=1735865894358
